@@ -1,1 +1,0 @@
-export {parseQuery} from './lib/query.ts'
